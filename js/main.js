@@ -3,16 +3,33 @@
  * by Lokesh Dhakar
  *
  * More info:
- * http://lokeshdhakar.com/projects/lightbox2/
- *
- * Copyright 2007, 2015 Lokesh Dhakar
+ * http://lokeshdhakar.com/proj
+ r
  * Released under the MIT license
  * https://github.com/lokesh/lightbox2/blob/master/LICENSE
  */
 
 let songz = [
-    ["Stabilize", "img/stab.jpg", ""],
-    ["Asterix", "img/asterix.jpg", "words words words"]
+    ["Stabilize", "img/stab.jpg", "None"],
+    ["Asterix", "img/asterix.jpg", "words words words"],
+    ['A Sleep Shanty', 	'/img/shanty.jpg', 	 ''],
+['A You', 	'/img/ayou.jpg', 	 ''],
+['Abnormal Listening Behavior', 	'/img/alb.png', 	 ''],
+['Aloha', 	'/img/aloha.jpg', 	 ''],
+['Asphalt', 	'/img/asphalt.png', 	 ''],
+['Asterix', 	'/img/asterix.jpg', 	 ''],
+['Ballpark Hijinks', 	'/img/ball.png', 	 ''],
+['Drop Off', 	'/img/drop.jpg', 	 ''],
+['Garden Witch', 	'/img/garden.jpg', 	 ''],
+['Hey, You re Right', 	'/img/hey.png', 	 ''],
+['Johnny Undertow: Queen of the Moon', 	'/img/moon.jpg', 	 ''],
+['Johnny Undertow: Queen of the Sky', 	'/img/sky.png', 	 ''],
+['Johnny Undertow: Son of the Earth', 	'/img/earth.jpg', 	 ''],
+['Mr. Cross, The Dusty Bell', 	'/img/dusty.jpg', 	 ''],
+['Newsreaders', 	'/img/news.jpg', 	 ''],
+['Sly Girl', 	'/img/sly.jpg', 	 ''],
+['Stabalize', 	'/img/stab.jpg', 	 ''],
+['Swamp Muckers', 	'/img/swamp.jpg', 	 '']
 ];
 
 function selectz(song) {
